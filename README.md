@@ -52,7 +52,7 @@ Three classifiers were trained with identical preprocessing and evaluated on the
 
 | Model | PR-AUC | ROC-AUC |
 |---|---|---|
-| **Gradient-Boosted Trees** ✅ | **0.8119** | **0.9762** |
+| **Gradient-Boosted Trees** | **0.8119** | **0.9762** |
 | Random Forest | 0.7650 | n/a |
 | Logistic Regression | 0.6982 | n/a |
 
